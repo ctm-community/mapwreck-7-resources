@@ -1,0 +1,10 @@
+{
+	"parent": "inasa:parents/placeholder",
+	"textures": {
+		"side": "inasa:placeholder/teleporter",
+		"top": "inasa:placeholder/teleporter",
+		"bottom": "inasa:placeholder/teleporter",
+		"outer": "inasa:placeholder/outline",
+		"particle": "inasa:placeholder/outline"
+	}
+}

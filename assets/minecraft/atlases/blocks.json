@@ -1,0 +1,224 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "carto:items/lexica"
+        },
+        {
+            "type": "single",
+            "resource": "carto:items/lexica_text"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:coas/ender_pearl"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:coas/golden_carrot"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:coas/interaction"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:coas/upsidown_carrot"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/cancel"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/down"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/info"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/left"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/right"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/rose"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/up"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/a"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/b"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/c"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/d"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/dash"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/e"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/f"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/g"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/h"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/i"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/j"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/k"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/l"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/m"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/n"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/o"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/p"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/q"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/r"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/s"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/t"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/u"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/v"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/w"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/x"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/y"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:inventory/alphabet/z"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/charon"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/outline"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/redstone_dust"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/teleporter"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/block/chest"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/block/spawner"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/block/stone"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/block/tnt/side"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/block/tnt/top"
+        },
+        {
+            "type": "single",
+            "resource": "inasa:placeholder/block/tnt/bottom"
+        },
+        {
+            "type": "single",
+            "resource": "rim:bags/basic/neutral/closed"
+        },
+        {
+            "type": "single",
+            "resource": "rim:bags/basic/neutral/open"
+        },
+        {
+            "type": "single",
+            "resource": "rim:bag/dye_station/side"
+        },
+        {
+            "type": "single",
+            "resource": "rim:bag/dye_station/bottom"
+        },
+        {
+            "type": "single",
+            "resource": "rim:bag/dye_station/top"
+        }
+    ]
+}
