@@ -202,6 +202,10 @@
         },
         {
             "type": "single",
+            "resource": "inasa:shitpost/vineboom"
+        },
+        {
+            "type": "single",
             "resource": "rim:bags/basic/neutral/closed"
         },
         {
