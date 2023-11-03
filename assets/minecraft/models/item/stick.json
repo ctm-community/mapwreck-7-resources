@@ -5,7 +5,9 @@
   },
 	
 	"overrides": [	
-		{"predicate": {"custom_model_data":777001}, "model": "minecraft:item/link/squid"}
-		
+		{"predicate": {"custom_model_data":777001}, "model": "minecraft:item/link/squid"},
+    {"predicate": {"custom_model_data":777002}, "model": "minecraft:item/link/squid_arm"},
+		{"predicate": {"custom_model_data":777003}, "model": "minecraft:item/link/squid_tentacle"}
+
 	]
 }
