@@ -69,6 +69,34 @@
                 "\uF83F": 1024,
                 "\uF830": 32768
             }
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/fade.png",
+          "ascent": 1500,
+          "height": 3000,
+          "chars": ["\ue033"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/rose.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue034"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/rose_flipped.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue035"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/pearl.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue036"]
         }
     ]
 }
