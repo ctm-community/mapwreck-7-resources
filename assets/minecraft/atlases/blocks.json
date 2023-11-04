@@ -223,6 +223,70 @@
         {
             "type": "single",
             "resource": "rim:bag/dye_station/top"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/chitin/top"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/chitin/side"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/bottom"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/east"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/north"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/south"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/top"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/west"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/reinforced_chitin/top"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/reinforced_chitin/side"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/lapis_ore/calcite"
+        },
+        {
+            "type": "single",
+            "resource": "area_0:blocks/lapis_ore/crag"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/vines/bottom_lit"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/vines/bottom_unlit"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/vines/middle_lit"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/vines/middle_unlit"
         }
     ]
 }

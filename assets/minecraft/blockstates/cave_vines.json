@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=18,berries=false" : {
+      "model": "narocknred:blocks/vines/middle_unlit"
+    },
+    "age=18,berries=true" : {
+      "model": "narocknred:blocks/vines/middle_lit"
+    },
+    "age=19,berries=false" : {
+      "model": "narocknred:blocks/vines/bottom_unlit"
+    },
+    "age=19,berries=true" : {
+      "model": "narocknred:blocks/vines/bottom_lit"
+    }
+  }
+}

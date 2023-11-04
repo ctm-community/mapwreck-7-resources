@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "rocknred:blocks/reinforced_chitin/top",
+    "bottom": "rocknred:blocks/reinforced_chitin/top",
+    "side": "rocknred:blocks/reinforced_chitin/side"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "rocknred:blocks/vines/middle_unlit"
+  }
+}
