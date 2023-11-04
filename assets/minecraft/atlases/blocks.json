@@ -234,6 +234,10 @@
         },
         {
             "type": "single",
+            "resource": "rocknred:blocks/depthstone"
+        },
+        {
+            "type": "single",
             "resource": "rocknred:blocks/egg/bottom"
         },
         {
@@ -255,6 +259,10 @@
         {
             "type": "single",
             "resource": "rocknred:blocks/egg/west"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/exo"
         },
         {
             "type": "single",

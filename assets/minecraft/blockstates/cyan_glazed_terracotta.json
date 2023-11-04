@@ -8,10 +8,10 @@
       "model": "rocknred:blocks/reinforced_chitin"
     },
     "facing=south": {
-      "model": "rocknred:blocks/na"
+      "model": "rocknred:blocks/depthstone"
     },
     "facing=west": {
-      "model": "rocknred:blocks/na"
+      "model": "rocknred:blocks/exo"
     }
   }
 }
