@@ -226,6 +226,10 @@
         },
         {
             "type": "single",
+            "resource": "rocknred:blocks/blast_tile"
+        },
+        {
+            "type": "single",
             "resource": "rocknred:blocks/chitin/top"
         },
         {

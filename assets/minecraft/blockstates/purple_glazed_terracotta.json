@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "rocknred:blocks/blast_tile",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "rocknred:blocks/na"
+    },
+    "facing=south": {
+      "model": "rrocknred:blocks/na"
+    },
+    "facing=west": {
+      "model": "rocknred:blocks/na"
+    }
+  }
+}
