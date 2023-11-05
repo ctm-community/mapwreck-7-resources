@@ -8,7 +8,10 @@
 		{"predicate": {"custom_model_data":777001}, "model": "minecraft:item/link/squid"},
     {"predicate": {"custom_model_data":777002}, "model": "minecraft:item/link/squid_arm"},
 		{"predicate": {"custom_model_data":777003}, "model": "minecraft:item/link/squid_tentacle"},
-		{"predicate": {"custom_model_data":777004}, "model": "minecraft:item/link/bubble"}
+		{"predicate": {"custom_model_data":777004}, "model": "minecraft:item/link/bubble"},
+		{"predicate": {"custom_model_data":777005}, "model": "minecraft:item/link/swordfish"},
+    {"predicate": {"custom_model_data":777006}, "model": "minecraft:item/link/cuddlefish"}
+
 
 	]
 }
