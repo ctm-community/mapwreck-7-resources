@@ -1,0 +1,58 @@
+{
+  "link.enter_area": {
+		"sounds": [
+			{
+				"name": "link/enter_area",
+				"stream": true
+			}
+		]
+	},
+	"link.win": {
+		"sounds": [
+			{
+				"name": "link/win",
+				"stream": true
+			}
+		]
+	},
+	"link.game_over": {
+		"sounds": [
+			{
+				"name": "link/game_over",
+				"stream": true
+			}
+		]
+	},
+	"link.area_theme": {
+		"sounds": [
+			{
+				"name": "link/area_theme",
+				"stream": true
+			}
+		]
+	},
+	"link.boss_theme": {
+		"sounds": [
+			{
+				"name": "link/boss_theme",
+				"stream": true
+			}
+		]
+	},
+	"link.scream": {
+		"sounds": [
+			{
+				"name": "link/scream",
+				"stream": true
+			}
+		]
+	},
+	"link.roar": {
+		"sounds": [
+			{
+				"name": "link/roar",
+				"stream": true
+			}
+		]
+	}
+}
