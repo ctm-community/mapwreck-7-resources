@@ -31,10 +31,18 @@
 			}
 		]
 	},
-	"link.boss_theme": {
+	"link.boss_theme1": {
 		"sounds": [
 			{
-				"name": "link/boss_theme",
+				"name": "link/boss_theme1",
+				"stream": true
+			}
+		]
+	},
+	"link.boss_theme2": {
+		"sounds": [
+			{
+				"name": "link/boss_theme2",
 				"stream": true
 			}
 		]

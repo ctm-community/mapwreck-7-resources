@@ -8,7 +8,9 @@
 		"5": "block/piston_inner",
 		"6": "block/white_wool",
 		"7": "block/smooth_stone_slab_side",
-		"8": "block/smooth_stone"
+		"8": "block/smooth_stone",
+		"particle": "item/link/crossbow/harpoon"
+
 	},
 	"elements": [
 		{
