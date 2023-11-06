@@ -315,6 +315,38 @@
         {
             "type": "single",
             "resource": "rocknred:blocks/vines/middle_unlit"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/abyssal_kelp_glow"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/abyssal_kelp"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_gravel"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_kelp_glow"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_kelp"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_path_side"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_path"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_stone"
         }
     ]
 }

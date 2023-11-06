@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "comp:blocks/atlantean_path",
+    "bottom": "comp:blocks/atlantean_stone",
+    "side": "comp:blocks/atlantean_path_side"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "comp:blocks/atlantean_stone",
+    "side": "comp:blocks/atlantean_path_side",
+    "top": "comp:blocks/atlantean_path"
+  }
+}

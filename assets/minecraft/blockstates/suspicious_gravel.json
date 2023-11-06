@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "dusted=3": {
+            "model": "comp:blocks/atlantean_gravel"
+        }
+    }
+}
