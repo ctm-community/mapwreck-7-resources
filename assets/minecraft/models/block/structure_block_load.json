@@ -1,6 +1,3 @@
 {
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "minecraft:block/structure_block_load"
-  }
+  "parent": "rocknred:blocks/grasp/active"
 }

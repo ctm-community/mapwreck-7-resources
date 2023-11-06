@@ -278,6 +278,22 @@
         },
         {
             "type": "single",
+            "resource": "rocknred:blocks/grasp/tentacle_active"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/grasp/block"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/grasp/top"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/grasp/tentacle_inactive"
+        },
+        {
+            "type": "single",
             "resource": "area_0:blocks/lapis_ore/calcite"
         },
         {
