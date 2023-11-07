@@ -12,9 +12,6 @@
         "age=19,berries=true": {
             "model": "narocknred:blocks/vines/bottom_lit"
         },
-        "age=23,berries=false": {
-            "model": "comp:blocks/atlantean_kelp"
-        },
         "age=23,berries=true": {
             "model": "comp:blocks/atlantean_kelp_glow"
         },
