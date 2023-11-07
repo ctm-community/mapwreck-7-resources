@@ -26,5 +26,7 @@
 
   "item.minecraft.knowledge_book": "Unknown Item (Craft to reveal, result of Minecraft limitation.)",
   
+  "death.attack.grasp": "%1$s retraced their steps",
+  
   "comp.i.dont.care.about.this.log.error.it.is.to.make.editing.this.file.easier":"wah"
 }

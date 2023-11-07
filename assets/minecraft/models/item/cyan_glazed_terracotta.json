@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:block/cyan_glazed_terracotta",
+  "overrides": [
+        {"predicate":{"custom_model_data":5301},"model":"rocknred:blocks/chitin"},
+		{"predicate":{"custom_model_data":5302},"model":"rocknred:blocks/reinforced_chitin"},
+		{"predicate":{"custom_model_data":5303},"model":"rocknred:blocks/depthstone"},
+		{"predicate":{"custom_model_data":5304},"model":"rocknred:blocks/exo"},
+		{"predicate": {"custom_model_data": 2147483647}, "model": "end:dummy/foo_bar"}
+    ]
+}

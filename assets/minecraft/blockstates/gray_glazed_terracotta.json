@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "rocknred:blocks/reinforced_chitin",
+      "x": 90
+    },
+    "facing=north": {
+      "model": "rocknred:blocks/reinforced_chitin",
+	  "x": 90,
+	  "y": 90
+	},
+    "facing=south": {
+      "model": "rocknred:blocks/blast_tile",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "rocknred:blocks/na"
+    }
+  }
+}
