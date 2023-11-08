@@ -28,5 +28,19 @@
   
   "death.attack.grasp": "%1$s retraced their steps",
   
-  "comp.i.dont.care.about.this.log.error.it.is.to.make.editing.this.file.easier":"wah"
+  "comp.i.dont.care.about.this.log.error.it.is.to.make.editing.this.file.easier":"wah",
+
+  "death.attack.cuddlefish": "%1$s was cuddled to death",
+  "death.attack.cuddlefish.player": "%1$s was cuddled to death",
+  "death.attack.no_scale_i_frames_knockback": "%1$s was riddled with holes",
+  "death.attack.no_scale_i_frames_knockback.player": "%1$s was riddled with holes",
+  "death.attack.ink.player": "%1$s got inked",
+  "death.attack.ink": "%1$s got inked",
+  "death.attack.ripple": "%1$s was shook",
+  "death.attack.ripple.player": "%1$s was shook",
+  "death.attack.scale_i_frames_knockback": "%1$s tried to hug a squid (bad ending)",
+  "death.attack.scale_i_frames_knockback.player": "%1$s tried to hug a squid (bad ending)",
+
+  "multiplayer.player.joined": "%s lost the game",
+  "multiplayer.player.left": "So long, %s. You will be missed."
 }
