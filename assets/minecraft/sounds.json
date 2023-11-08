@@ -34,7 +34,7 @@
 	"link.boss_theme1": {
 		"sounds": [
 			{
-				"name": "link/boss_theme1",
+				"name": "link/boss_theme_1",
 				"stream": true
 			}
 		]
@@ -42,7 +42,7 @@
 	"link.boss_theme2": {
 		"sounds": [
 			{
-				"name": "link/boss_theme2",
+				"name": "link/boss_theme_2",
 				"stream": true
 			}
 		]
