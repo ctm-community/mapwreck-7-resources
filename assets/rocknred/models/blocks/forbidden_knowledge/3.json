@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "rocknred:blocks/forbidden_knowledge/top",
+    "bottom": "rocknred:blocks/forbidden_knowledge/top",
+    "side": "rocknred:blocks/forbidden_knowledge/side_3"
+  }
+}

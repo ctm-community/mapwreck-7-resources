@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "rocknred:blocks/thicket_mud/top",
+    "bottom": "rocknred:blocks/thicket_mud/bottom",
+    "side": "rocknred:blocks/thicket_mud/side"
+  }
+}

@@ -10,6 +10,38 @@
         },
         {
             "type": "single",
+            "resource": "comp:blocks/abyssal_kelp"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/abyssal_kelp_glow"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_gravel"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_kelp"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_kelp_glow"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_path"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_stone"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/atlantean_path_side"
+        },
+        {
+            "type": "single",
             "resource": "inasa:coas/ender_pearl"
         },
         {
@@ -278,6 +310,34 @@
         },
         {
             "type": "single",
+            "resource": "rocknred:blocks/thicket_mud/top"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/thicket_mud/bottom"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/thicket_mud/side"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/forbidden_knowledge/top"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/forbidden_knowledge/side_1"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/forbidden_knowledge/side_2"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/forbidden_knowledge/side_3"
+        },
+        {
+            "type": "single",
             "resource": "rocknred:blocks/grasp/tentacle_active"
         },
         {
@@ -315,38 +375,6 @@
         {
             "type": "single",
             "resource": "rocknred:blocks/vines/middle_unlit"
-        },
-        {
-            "type": "single",
-            "resource": "comp:blocks/abyssal_kelp_glow"
-        },
-        {
-            "type": "single",
-            "resource": "comp:blocks/abyssal_kelp"
-        },
-        {
-            "type": "single",
-            "resource": "comp:blocks/atlantean_gravel"
-        },
-        {
-            "type": "single",
-            "resource": "comp:blocks/atlantean_kelp_glow"
-        },
-        {
-            "type": "single",
-            "resource": "comp:blocks/atlantean_kelp"
-        },
-        {
-            "type": "single",
-            "resource": "comp:blocks/atlantean_path_side"
-        },
-        {
-            "type": "single",
-            "resource": "comp:blocks/atlantean_path"
-        },
-        {
-            "type": "single",
-            "resource": "comp:blocks/atlantean_stone"
         }
     ]
 }

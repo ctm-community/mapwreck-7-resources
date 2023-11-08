@@ -1,0 +1,6 @@
+{
+  "overrides": [
+        {"predicate":{"custom_model_data":5301},"model":"rocknred:blocks/forbidden_knowledge/1"},
+		{"predicate": {"custom_model_data": 2147483647}, "model": "end:dummy/foo_bar"}
+    ]
+}
