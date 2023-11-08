@@ -4,6 +4,7 @@
         {"predicate":{"custom_model_data":5301},"model":"rocknred:blocks/reinforced_chitin"},
 		{"predicate":{"custom_model_data":5302},"model":"rocknred:blocks/reinforced_chitin"},
 		{"predicate":{"custom_model_data":5303},"model":"rocknred:blocks/blast_tile"},
+		{"predicate":{"custom_model_data":5304},"model":"rocknred:blocks/thicket_mud"},
 		{"predicate": {"custom_model_data": 2147483647}, "model": "end:dummy/foo_bar"}
     ]
 }
