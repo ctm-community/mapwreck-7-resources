@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "distance=6": {
+      "model": "rocknred:blocks/leaves"
+    }
+  }
+}

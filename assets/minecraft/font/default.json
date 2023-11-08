@@ -125,6 +125,20 @@
           "ascent": 8,
           "height": 8,
           "chars": ["\ue040"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/red_text/wax.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue041"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/red_text/money.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue042"]
         }
     ]
 }

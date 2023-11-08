@@ -282,6 +282,10 @@
         },
         {
             "type": "single",
+            "resource": "rocknred:blocks/leaves"
+        },
+        {
+            "type": "single",
             "resource": "rocknred:blocks/reinforced_chitin/top"
         },
         {
