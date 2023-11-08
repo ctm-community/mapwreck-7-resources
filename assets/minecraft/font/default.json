@@ -97,6 +97,34 @@
           "ascent": 8,
           "height": 8,
           "chars": ["\ue036"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/ravi.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue037"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/suzy.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue038"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/french.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue039"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/red_text/starlit.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue040"]
         }
     ]
 }
