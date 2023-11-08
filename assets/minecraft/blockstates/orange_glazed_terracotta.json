@@ -1,6 +1,15 @@
 {
     "variants": {
-        "facing=east": [
+        "facing=west": [
+            {
+                "model": "minecraft:block/sculk",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block/sculk",
+                "y": 270
+            }
+        ],"facing=east": [
             {
                 "model": "comp:blocks/atlantean_stone",
                 "y": 90
