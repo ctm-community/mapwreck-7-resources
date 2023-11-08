@@ -1,16 +1,16 @@
 {
     "variants": {
         "age=18,berries=false": {
-            "model": "narocknred:blocks/vines/middle_unlit"
+            "model": "rocknred:blocks/vines/middle_unlit"
         },
         "age=18,berries=true": {
-            "model": "narocknred:blocks/vines/middle_lit"
+            "model": "rocknred:blocks/vines/middle_lit"
         },
         "age=19,berries=false": {
-            "model": "narocknred:blocks/vines/bottom_unlit"
+            "model": "rocknred:blocks/vines/bottom_unlit"
         },
         "age=19,berries=true": {
-            "model": "narocknred:blocks/vines/bottom_lit"
+            "model": "rocknred:blocks/vines/bottom_lit"
         },
         "age=23,berries=true": {
             "model": "comp:blocks/atlantean_kelp_glow"

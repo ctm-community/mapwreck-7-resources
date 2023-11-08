@@ -274,27 +274,7 @@
         },
         {
             "type": "single",
-            "resource": "rocknred:blocks/egg/bottom"
-        },
-        {
-            "type": "single",
-            "resource": "rocknred:blocks/egg/east"
-        },
-        {
-            "type": "single",
-            "resource": "rocknred:blocks/egg/north"
-        },
-        {
-            "type": "single",
-            "resource": "rocknred:blocks/egg/south"
-        },
-        {
-            "type": "single",
-            "resource": "rocknred:blocks/egg/top"
-        },
-        {
-            "type": "single",
-            "resource": "rocknred:blocks/egg/west"
+            "resource": "rocknred:blocks/egg"
         },
         {
             "type": "single",
@@ -319,6 +299,42 @@
         {
             "type": "single",
             "resource": "rocknred:blocks/thicket_mud/side"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/bottom"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/east"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/north"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/south"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/top"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/egg/west"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/bamboo/stalk"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/bamboo/large_leaves"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:blocks/bamboo/small_leaves"
         },
         {
             "type": "single",

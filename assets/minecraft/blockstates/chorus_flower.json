@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "age=3": {
+            "model": "rocknred:blocks/egg"
+        }
+    }
+}

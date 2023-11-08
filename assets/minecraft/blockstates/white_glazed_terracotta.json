@@ -13,6 +13,11 @@
 				"model": "rocknred:blocks/forbidden_knowledge/3",
 				"y": 90
             }
-        ]
+        ],
+		"facing=south": [
+			{
+				"model": "rocknred:blocks/egg"
+			}
+		]
     }
 }
