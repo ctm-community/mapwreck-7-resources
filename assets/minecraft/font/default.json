@@ -139,6 +139,13 @@
           "ascent": 8,
           "height": 8,
           "chars": ["\ue042"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/red_text/tree.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue043"]
         }
     ]
 }

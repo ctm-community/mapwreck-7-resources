@@ -1,6 +1,4 @@
 {
-  
-
   "enchantment.level.1": "I",
   "enchantment.level.2": "II",
   "enchantment.level.3": "III",
@@ -27,8 +25,6 @@
   "item.minecraft.knowledge_book": "Unknown Item (Craft to reveal, result of Minecraft limitation.)",
   
   "death.attack.grasp": "%1$s retraced their steps",
-  
-  "comp.i.dont.care.about.this.log.error.it.is.to.make.editing.this.file.easier":"wah",
 
   "death.attack.cuddlefish": "%1$s was cuddled to death",
   "death.attack.cuddlefish.player": "%1$s was cuddled to death",
@@ -40,7 +36,6 @@
   "death.attack.ripple.player": "%1$s was shook",
   "death.attack.scale_i_frames_knockback": "%1$s tried to hug a squid (bad ending)",
   "death.attack.scale_i_frames_knockback.player": "%1$s tried to hug a squid (bad ending)",
-
-  "multiplayer.player.joined": "%s lost the game",
-  "multiplayer.player.left": "So long, %s. You will be missed."
+  
+  "comp.i.dont.care.about.this.log.error.it.is.to.make.editing.this.file.easier":"wah"
 }
