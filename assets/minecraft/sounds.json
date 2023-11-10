@@ -70,5 +70,141 @@
 				"stream": true
 			}
 		]
+	},
+	"link.nya1": {
+		"sounds": [
+			{
+				"name": "link/nya1",
+				"stream": true
+			}
+		]
+	},
+	"link.nya2": {
+		"sounds": [
+			{
+				"name": "link/nya2",
+				"stream": true
+			}
+		]
+	},
+	"link.nya3": {
+		"sounds": [
+			{
+				"name": "link/nya3",
+				"stream": true
+			}
+		]
+	},
+	"link.nya4": {
+		"sounds": [
+			{
+				"name": "link/nya4",
+				"stream": true
+			}
+		]
+	},
+	"link.nya5": {
+		"sounds": [
+			{
+				"name": "link/nya5",
+				"stream": true
+			}
+		]
+	},
+	"link.nya6": {
+		"sounds": [
+			{
+				"name": "link/nya6",
+				"stream": true
+			}
+		]
+	},
+	"link.nya7": {
+		"sounds": [
+			{
+				"name": "link/nya7",
+				"stream": true
+			}
+		]
+	},
+	"link.nya8": {
+		"sounds": [
+			{
+				"name": "link/nya8",
+				"stream": true
+			}
+		]
+	},
+	"link.nya9": {
+		"sounds": [
+			{
+				"name": "link/nya9",
+				"stream": true
+			}
+		]
+	},
+	"link.oof": {
+		"sounds": [
+			{
+				"name": "link/oof",
+				"stream": true
+			}
+		]
+	},
+	"link.uwu": {
+		"sounds": [
+			{
+				"name": "link/uwu",
+				"stream": true
+			}
+		]
+	},
+	"link.technorip": {
+		"sounds": [
+			{
+				"name": "link/technorip",
+				"stream": true
+			}
+		]
+	},
+	"link.tacobell": {
+		"sounds": [
+			{
+				"name": "link/tacobell",
+				"stream": true
+			}
+		]
+	},
+	"link.yeet": {
+		"sounds": [
+			{
+				"name": "link/yeet",
+				"stream": true
+			}
+		]
+	},
+	"link.fartreverb": {
+		"sounds": [
+			{
+				"name": "link/fartreverb",
+				"stream": true
+			}
+		]
+	},
+	"link.helicopter": {
+		"sounds": [
+			{
+				"name": "link/helicopter",
+				"stream": true
+			}
+		]
+	},
+	"link.spit2": {
+		"sounds": [
+			{
+				"name": "link/spit2",
+				"stream": true
+			}
+		]
 	}
 }
