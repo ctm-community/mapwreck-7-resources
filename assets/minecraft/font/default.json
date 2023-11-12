@@ -146,6 +146,27 @@
           "ascent": 8,
           "height": 8,
           "chars": ["\ue043"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/red_text/static.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue044"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/red_text/bishop.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue045"]
+        },
+		{
+          "type": "bitmap",
+          "file": "mw:font/icon/red_text/sun.png",
+          "ascent": 8,
+          "height": 8,
+          "chars": ["\ue046"]
         }
     ]
 }
