@@ -42,6 +42,14 @@
         },
         {
             "type": "single",
+            "resource": "comp:blocks/sculk_catalyst"
+        },
+        {
+            "type": "single",
+            "resource": "comp:blocks/sculk_catalyst_bloom"
+        },
+        {
+            "type": "single",
             "resource": "inasa:coas/ender_pearl"
         },
         {

@@ -2,22 +2,32 @@
     "variants": {
         "facing=east": [
             {
-				"model": "rocknred:blocks/forbidden_knowledge/1",
-				"y": 90
+                "model": "rocknred:blocks/forbidden_knowledge/1",
+                "y": 90
             },
             {
-				"model": "rocknred:blocks/forbidden_knowledge/2",
-				"y": 90
+                "model": "rocknred:blocks/forbidden_knowledge/2",
+                "y": 90
             },
             {
-				"model": "rocknred:blocks/forbidden_knowledge/3",
-				"y": 90
+                "model": "rocknred:blocks/forbidden_knowledge/3",
+                "y": 90
             }
         ],
-		"facing=south": [
-			{
-				"model": "rocknred:blocks/egg"
-			}
-		]
+        "facing=south": [
+            {
+                "model": "rocknred:blocks/egg"
+            }
+        ],
+        "facing=west": [
+            {
+                "model": "comp:blocks/sculk_catalyst"
+            }
+        ],
+        "facing=north": [
+            {
+                "model": "comp:blocks/sculk_catalyst_bloom"
+            }
+        ]
     }
 }
