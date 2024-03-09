@@ -13,10 +13,10 @@
             "model": "rocknred:blocks/vines/bottom_lit"
         },
         "age=23,berries=true": {
-            "model": "comp:blocks/atlantean_kelp_glow"
+            "model": "comp:block/atlantean_kelp_glow"
         },
         "age=22,berries=true": {
-            "model": "comp:blocks/abyssal_kelp_glow"
+            "model": "comp:block/abyssal_kelp_glow"
         }
     }
 }

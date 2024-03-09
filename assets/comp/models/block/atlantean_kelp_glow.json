@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cross",
   "textures": {
-    "cross": "comp:blocks/atlantean_kelp_glow"
+    "cross": "comp:block/atlantean_kelp_glow"
   }
 }

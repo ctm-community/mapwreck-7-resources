@@ -1,9 +1,9 @@
 {
     "parent": "block/block",
     "textures": {
-        "texture": "comp:blocks/abyssal_kelp_glow",
-        "bottom": "comp:blocks/abyssal_kelp_glow",
-        "particle": "comp:blocks/abyssal_kelp_glow"
+        "texture": "comp:block/abyssal_kelp_glow",
+        "bottom": "comp:block/abyssal_kelp_glow",
+        "particle": "comp:block/abyssal_kelp_glow"
     },
     "elements": [
         {

@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/cube_all",
     "textures": {
-        "all": "comp:blocks/atlantean_stone"
+        "all": "comp:block/atlantean_gravel"
     }
 }

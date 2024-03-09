@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/cube_all",
     "textures": {
-        "all": "comp:blocks/atlantean_gravel"
+        "all": "comp:block/sculk_catalyst_bloom"
     }
 }

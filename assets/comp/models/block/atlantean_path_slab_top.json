@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "comp:block/atlantean_stone",
+    "side": "comp:block/atlantean_path_side",
+    "top": "comp:block/atlantean_path"
+  }
+}

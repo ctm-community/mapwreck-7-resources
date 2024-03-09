@@ -1,7 +1,7 @@
 {
     "variants": {
         "age=23": {
-            "model": "comp:blocks/atlantean_kelp"
+            "model": "comp:block/atlantean_kelp"
         }
     }
 }

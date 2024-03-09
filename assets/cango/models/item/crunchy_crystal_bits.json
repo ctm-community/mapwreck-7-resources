@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "cango:item/crunchy_crystal_bits"
+    }
+}

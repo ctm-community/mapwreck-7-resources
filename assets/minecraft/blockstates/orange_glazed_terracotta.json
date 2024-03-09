@@ -11,45 +11,45 @@
             }
         ],"facing=east": [
             {
-                "model": "comp:blocks/atlantean_stone",
+                "model": "comp:block/atlantean_stone",
                 "y": 90
             },
             {
-                "model": "comp:blocks/atlantean_stone",
+                "model": "comp:block/atlantean_stone",
                 "y": 270
             }
         ],
         "facing=north": [
             {
-                "model": "comp:blocks/atlantean_path"
+                "model": "comp:block/atlantean_path"
             },
             {
-                "model": "comp:blocks/atlantean_path",
+                "model": "comp:block/atlantean_path",
                 "y": 90
             },
             {
-                "model": "comp:blocks/atlantean_path",
+                "model": "comp:block/atlantean_path",
                 "y": 180
             },
             {
-                "model": "comp:blocks/atlantean_path",
+                "model": "comp:block/atlantean_path",
                 "y": 270
             }
         ],
         "facing=south": [
             {
-                "model": "comp:blocks/atlantean_gravel"
+                "model": "comp:block/atlantean_gravel"
             },
             {
-                "model": "comp:blocks/atlantean_gravel",
+                "model": "comp:block/atlantean_gravel",
                 "y": 90
             },
             {
-                "model": "comp:blocks/atlantean_gravel",
+                "model": "comp:block/atlantean_gravel",
                 "y": 180
             },
             {
-                "model": "comp:blocks/atlantean_gravel",
+                "model": "comp:block/atlantean_gravel",
                 "y": 270
             }
         ]

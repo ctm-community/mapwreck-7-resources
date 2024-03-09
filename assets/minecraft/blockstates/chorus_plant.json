@@ -1,7 +1,7 @@
 {
     "variants": {
         "up=false,down=false,north=false,south=false,east=false,west=false": {
-            "model": "comp:blocks/abyssal_kelp"
+            "model": "comp:block/abyssal_kelp"
         }
     }
 }

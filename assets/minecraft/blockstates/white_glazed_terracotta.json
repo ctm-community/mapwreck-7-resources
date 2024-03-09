@@ -21,12 +21,12 @@
         ],
         "facing=west": [
             {
-                "model": "comp:blocks/sculk_catalyst"
+                "model": "comp:block/sculk_catalyst"
             }
         ],
         "facing=north": [
             {
-                "model": "comp:blocks/sculk_catalyst_bloom"
+                "model": "comp:block/sculk_catalyst_bloom"
             }
         ]
     }

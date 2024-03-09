@@ -1,13 +1,13 @@
 {
   "variants": {
     "type=bottom": {
-      "model": "comp:blocks/atlantean_path_slab"
+      "model": "comp:block/atlantean_path_slab"
     },
     "type=double": {
-      "model": "comp:blocks/atlantean_path"
+      "model": "comp:block/atlantean_path"
     },
     "type=top": {
-      "model": "comp:blocks/atlantean_path_slab_top"
+      "model": "comp:block/atlantean_path_slab_top"
     }
   }
 }
