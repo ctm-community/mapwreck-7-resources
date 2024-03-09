@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/glass",
+	"overrides":[
+		{ "predicate":{ "custom_model_data": 2}, "model":"rocknred:items/roses_tinted_glasses" },
+		{"predicate": { "custom_model_data": 2147483647}, "model": "end"}
+	]
+ }

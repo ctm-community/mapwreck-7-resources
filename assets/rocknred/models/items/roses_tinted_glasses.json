@@ -1,0 +1,6 @@
+{
+	"parent": "rocknred:parents/glasses",
+	"textures": {
+		"glasses": "rocknred:items/roses_tinted_glasses"
+	}
+}

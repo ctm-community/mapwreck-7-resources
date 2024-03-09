@@ -403,6 +403,10 @@
         {
             "type": "single",
             "resource": "rocknred:blocks/vines/middle_unlit"
+        },
+        {
+            "type": "single",
+            "resource": "rocknred:items/roses_tinted_glasses"
         }
     ]
 }
