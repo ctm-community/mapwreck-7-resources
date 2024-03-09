@@ -1,57 +1,24 @@
 {
     "variants": {
         "facing=west": [
-            {
-                "model": "minecraft:block/sculk",
-                "y": 90
-            },
-            {
-                "model": "minecraft:block/sculk",
-                "y": 270
-            }
-        ],"facing=east": [
-            {
-                "model": "comp:block/atlantean_stone",
-                "y": 90
-            },
-            {
-                "model": "comp:block/atlantean_stone",
-                "y": 270
-            }
+            {"model": "minecraft:block/sculk", "y": 90},
+            {"model": "minecraft:block/sculk", "y": 270}
+        ],
+        "facing=east": [
+            {"model": "comp:block/atlantean_stone", "y": 90},
+            {"model": "comp:block/atlantean_stone", "y": 270}
         ],
         "facing=north": [
-            {
-                "model": "comp:block/atlantean_path"
-            },
-            {
-                "model": "comp:block/atlantean_path",
-                "y": 90
-            },
-            {
-                "model": "comp:block/atlantean_path",
-                "y": 180
-            },
-            {
-                "model": "comp:block/atlantean_path",
-                "y": 270
-            }
+            {"model": "comp:block/atlantean_path"},
+            {"model": "comp:block/atlantean_path", "y": 90},
+            {"model": "comp:block/atlantean_path", "y": 180},
+            {"model": "comp:block/atlantean_path", "y": 270}
         ],
         "facing=south": [
-            {
-                "model": "comp:block/atlantean_gravel"
-            },
-            {
-                "model": "comp:block/atlantean_gravel",
-                "y": 90
-            },
-            {
-                "model": "comp:block/atlantean_gravel",
-                "y": 180
-            },
-            {
-                "model": "comp:block/atlantean_gravel",
-                "y": 270
-            }
+            {"model": "comp:block/atlantean_gravel"},
+            {"model": "comp:block/atlantean_gravel", "y": 90},
+            {"model": "comp:block/atlantean_gravel", "y": 180},
+            {"model": "comp:block/atlantean_gravel", "y": 270}
         ]
     }
 }

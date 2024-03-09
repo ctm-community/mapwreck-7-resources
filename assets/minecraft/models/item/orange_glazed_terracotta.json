@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/orange_glazed_terracotta",
+    "overrides": [
+        {"predicate":{"custom_model_data":1500},"model":"comp:block/atlantean_stone"},
+        {"predicate":{"custom_model_data":1501},"model":"comp:block/atlantean_path"},
+        {"predicate":{"custom_model_data":1502},"model":"comp:block/atlantean_gravel"}
+    ]
+}
