@@ -4,6 +4,7 @@
 	    "layer0": "item/carrot_on_a_stick"
 	},
 	"overrides": [	
+		{"predicate": {"custom_model_data":1}, "model": "rocknred:items/obsidian_and_gold"},
 		{"predicate": {"custom_model_data":9901}, "model": "inasa:coas/golden_carrot"},
 		{"predicate": {"custom_model_data":9902}, "model": "inasa:coas/upsidown_carrot"},
 		{"predicate": {"custom_model_data":9903}, "model": "inasa:coas/ender_pearl"},

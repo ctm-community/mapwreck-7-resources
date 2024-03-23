@@ -89,6 +89,8 @@
 		{"predicate": {"custom_model_data":16}, "model": "minecraft:block/black_wool"},
 		
 		{"predicate": {"custom_model_data":17}, "model": "rim:bags/basic/neutral/open"},
+	
+		{"predicate": {"custom_model_data":18}, "model": "rocknred:portal"},
 		
 		{"predicate": {"custom_model_data":100}, "model": "inasa:inventory/info"},
 		{"predicate": {"custom_model_data":101}, "model": "inasa:inventory/alphabet/a"},

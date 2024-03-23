@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "rocknred:items/obsidian_and_gold"
+	}
+}
