@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "cango:item/eternal_candlestick"
+        "layer0": "tris:item/eternal_candlestick"
     }
 }
