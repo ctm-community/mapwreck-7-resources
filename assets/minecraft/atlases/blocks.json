@@ -434,7 +434,7 @@
         },
         {
             "type": "single",
-            "resource": "cango:item/eternal_candlestick"
+            "resource": "tris:item/eternal_candlestick"
         }
     ]
 }
