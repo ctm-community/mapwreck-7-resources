@@ -2,67 +2,11 @@
     "sources": [
         {
             "type": "single",
-            "resource": "cango:item/bismuth_breaker"
-        },
-        {
-            "type": "single",
-            "resource": "cango:item/blighted_blade"
-        },
-        {
-            "type": "single",
-            "resource": "cango:item/crunchy_crystal_bits"
-        },
-        {
-            "type": "single",
-            "resource": "cango:item/fractalic_wand"
-        },
-        {
-            "type": "single",
             "resource": "carto:items/lexica"
         },
         {
             "type": "single",
             "resource": "carto:items/lexica_text"
-        },
-        {
-            "type": "single",
-            "resource": "comp:block/abyssal_kelp"
-        },
-        {
-            "type": "single",
-            "resource": "comp:block/abyssal_kelp_glow"
-        },
-        {
-            "type": "single",
-            "resource": "comp:block/atlantean_gravel"
-        },
-        {
-            "type": "single",
-            "resource": "comp:block/atlantean_kelp"
-        },
-        {
-            "type": "single",
-            "resource": "comp:block/atlantean_kelp_glow"
-        },
-        {
-            "type": "single",
-            "resource": "comp:block/atlantean_path"
-        },
-        {
-            "type": "single",
-            "resource": "comp:block/atlantean_stone"
-        },
-        {
-            "type": "single",
-            "resource": "comp:block/atlantean_path_side"
-        },
-        {
-            "type": "single",
-            "resource": "comp:block/sculk_catalyst"
-        },
-        {
-            "type": "single",
-            "resource": "comp:block/sculk_catalyst_bloom"
         },
         {
             "type": "single",
@@ -426,15 +370,15 @@
         },
         {
             "type": "single",
+            "resource": "rocknred:items/morning_star"
+        },
+        {
+            "type": "single",
             "resource": "rocknred:items/obsidian_and_gold"
         },
         {
             "type": "single",
             "resource": "rocknred:items/roses_tinted_glasses"
-        },
-        {
-            "type": "single",
-            "resource": "tris:item/eternal_candlestick"
         }
     ]
 }
