@@ -22,6 +22,10 @@
   "enchantment.level.22": "XXII",
   "enchantment.level.30": "XXX",
 
+
+  "block.minecraft.command_block": "§cBlock of Ruby",
+  "item.minecraft.scute": "§cRuby",
+
   "item.minecraft.knowledge_book": "Unknown Item (Craft to reveal, result of Minecraft limitation.)",
   
   "death.attack.grasp": "%1$s retraced their steps",
