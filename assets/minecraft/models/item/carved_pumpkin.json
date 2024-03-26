@@ -1,11 +1,7 @@
 {
-  "parent": "minecraft:block/carved_pumpkin",
-  "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 1
-      },
-      "model": "item/link/carved_pumpkin"
-    }
-  ]
+    "parent": "minecraft:block/carved_pumpkin",
+    "overrides": [
+        {"predicate": {"custom_model_data":1}, "model": "item/link/carved_pumpkin"},
+        {"predicate": {"custom_model_data":2}, "model": "comp:item/slugcat"}
+    ]
 }
